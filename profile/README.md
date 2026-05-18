@@ -1,20 +1,29 @@
 # Dark Trench
 
-The surface keeps its weather.
+The sea has an upper story, full of weather and rumor.
 
-Below it, other laws begin.
+Beneath it lies the trench, where light is spent, pressure is law, and every
+motion must be remembered if it is to be understood.
 
-Dark Trench gathers small instruments for black water: maps that remember,
-runtimes with ballast, machines that leave marks in silt.
+Dark Trench is a house for such instruments: quiet mechanisms, durable paths,
+and records made for the deep. It is concerned with work that must continue
+when no eye is on it, and with traces clear enough to guide a return.
 
-Not everything here explains itself at first light. It should survive the dark
-anyway.
+Here the maps are not ornamental. They are kept for the traveller who must cross
+the same dark water twice.
+
+The first vessels are these:
 
 - [Squid Mesh](https://github.com/dark-trench/squid_mesh): a Jido-native durable
-  workflow layer for Elixir; a net of recoverable paths for human and agent work
-  moving under pressure.
+  workflow layer for Elixir; a woven road for human hands, agent minds, and
+  long-running work that must pause, recover, and keep its thread.
 - [Squid Sonar](https://github.com/dark-trench/squid_sonar): an embeddable runtime
-  UI for Squid Mesh; a sonar for finding the squid in deep water, reading runs,
-  state, and movement below the light.
+  UI for Squid Mesh; a sounding device for finding the squid in deep water,
+  reading runs, state, pauses, wakes, and motion below the light.
 
-We follow pressure, wake, trace, and return.
+We attend to the interval after the command is given: the silence between steps,
+the mark left by a change of state, the path by which a thing may be resumed.
+
+Pressure, wake, trace, return.
+
+If a thing descends here, it should come back with proof of the depths it crossed.
