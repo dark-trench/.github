@@ -14,11 +14,9 @@ Such things must keep their own account. A path, once taken, must be found again
 
 The first vessels are these:
 
-- [Squid Mesh](https://github.com/dark-trench/squid_mesh): a net of durable paths for human hands, agent minds, and long-running work that must endure interruption and find its way back.
+- [Squidie](https://github.com/dark-trench/squidie): a net of durable paths for human hands, agent minds, and long-running work that must endure interruption and find its way back.
 
 - [Squid Sonar](https://github.com/dark-trench/squid_sonar): a sounding device cast into deep water to find the squids, read the runes of state, and follow motion where light does not reach.
-
-- [Rift](https://github.com/dark-trench/rift): a hard light kept above the crack that would not close, where black water keeps its cold counsel, the earth below still remembers fire, and every human answer is taken down as oath, debt, and witness.
 
 We attend to the quiet interval after intent leaves the hand: the pause before the next step, the retry after failure, the mark in the ledger, the wake of something unseen, and the long path home through black water.
 
