@@ -1,2 +1,3 @@
 # .github
-Community health files and profile README for dark-trench
+
+Community health files and the public organization profile.
