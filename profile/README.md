@@ -2,9 +2,6 @@
 
 **Tsuranari** (連なり) is a Japanese noun meaning a chain, sequence, or connection.
 
-For work that must endure, history that must remain, and every step that still
-needs to be seen.
-
 ## Projects
 
 - [Jizoku](https://github.com/dark-trench/jizoku) is an Elixir durable workflow
