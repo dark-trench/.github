@@ -1,4 +1,8 @@
-# Durable systems that keep going
+# Tsuranari
+
+The name “Tsuranari” (連なり) comes from the Japanese word for a chain, sequence,
+or connection. It reflects durable systems whose work, state, and history remain
+connected across time.
 
 We build tools for workflows that must survive pauses, retries, failures, and
 restarts without losing their history.
