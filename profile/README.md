@@ -1,30 +1,20 @@
 # Tsuranari
 
-The name “Tsuranari” (連なり) comes from the Japanese word for a chain, sequence,
-or connection. It reflects durable systems whose work, state, and history remain
-connected across time.
+**Tsuranari** (連なり) is a Japanese noun meaning a chain, sequence, or connection.
 
-We build tools for workflows that must survive pauses, retries, failures, and
-restarts without losing their history.
+For work that must endure, history that must remain, and every step that still
+needs to be seen.
 
 ## Projects
 
-- [Jizoku](https://github.com/dark-trench/jizoku) is a durable workflow runtime
-  for Elixir and Jido. It combines a declarative workflow DSL with raw Jido
-  actions, signals, and directives while preserving durable execution,
-  recovery, and observability.
-- [Kansoku](https://github.com/dark-trench/kansoku) is the operational dashboard
-  for Jizoku. It gives operators a clear view into workflow state, history,
+- [Jizoku](https://github.com/dark-trench/jizoku) is an Elixir durable workflow
+  runtime with a workflow DSL and support for Jido actions, signals, and
+  directives.
+- [Kansoku](https://github.com/dark-trench/kansoku) is a Phoenix LiveView
+  operations interface for inspecting Jizoku workflow state, journal history,
   failures, retries, manual boundaries, and recovery.
-
-Jizoku executes and recovers. Kansoku observes and explains.
 
 ## The names
 
-The name “Jizoku” (持続) comes from the Japanese word meaning “continuation,”
-“sustainability,” or “endurance.” It reflects workflows that persist, recover,
-and keep going over time.
-
-The name “Kansoku” (観測) comes from the Japanese word meaning “observation” or
-“measurement.” It reflects the dashboard's role in making durable workflow
-behavior visible and understandable.
+- **Jizoku** (持続): continuation, sustainability, or endurance.
+- **Kansoku** (観測): observation or measurement.
